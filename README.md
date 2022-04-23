@@ -1,6 +1,6 @@
 <head>
   <h1>Navigation For Minecraft Inside</h1>
-<ul>
+  <ul>
   <li><a href="https://minecraft-inside.ru">Home</a></li>
   <li><a href="https://minecraft-inside.ru/mods/">Mods</a></li>
   <li><a href="https://minecraft-inside.ru/skins/">Skins</a></li>
